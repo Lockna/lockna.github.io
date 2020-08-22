@@ -16,14 +16,14 @@ but I also find Hardware Hacking very interesting.
 
 ### How I got into programming
 I was playing a lot of video games like Minecraft and also Farming Simulator.
-After some timme I became more and more interested in how it works behind the scenes.
+After some time I became more and more interested in how it works behind the scenes.
 Then I got a programming book for Christmas. It was about the programming language Java.
 I also tried Minecraft Server Plugins but I didn't understand anything, so I let it go.
 Some time later I discovered the school for software engineering.
 I knew right away this was it. That's where I want to go.
 
 ### After the start of school
-In the first class we didn't start programming immediately. We first went throug the logic heind it on paper.
+In the first class we didn't start programming immediately. We first went through the logic behind it on paper.
 After this we started with C. Yes, C.
 We started with C because it is a simple programming langauge in itself. 
 Without class, interface and so on.
@@ -72,10 +72,10 @@ They recommended me to buy a ARM Development board and develop some Bare-Metal D
 I got told the 1-Bitsy would be the perfect match for me, but unfortunately it was sold out.
 I didn't find it anywhere on the internet. Well one shop had it, but I would have had to pay 25$ for shipping.
 So I asked for another development board. Then I bought the Teensy 4.0. It has an ARM Cortex-M7. 
-That's pretty neat thing.
+That's a pretty neat thing.
 
-But I would recommend a STM32 board. Since, the Teensy has a proprietary bootloader and such things.
-Like a nucleo board or something. But I have the Teensy and I'll stick with it.
+But I would recommend a STM32 board. Like a Nucleo board or something. Since, the Teensy has a proprietary bootloader and such things. 
+But I have the Teensy and I'll stick with it.
 
 That's my story so far and I'll keep you posted.
 
