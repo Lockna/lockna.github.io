@@ -28,8 +28,8 @@ After this we started with C. Yes, C.
 We started with C because it is a simple programming langauge in itself. 
 Without class, interface and so on.
 It was an imperative language, so we went through the basics. So control flow, loops and functions.
-We also discussed pointers and worked with them. I found this topic very interesting.
-After that the school year was already coming to an end and we discueed structs, but that was it.
+We also discused pointers and worked with them. I found this topic very interesting.
+After that the school year was already coming to an end and we discused structs, but that was it.
 In summer holidays I didn't do much of programming.
 In second grade, our langauge was C#. 
 We learned a lot this year.
