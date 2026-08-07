@@ -1,7 +1,7 @@
 ---
 title: Installing and Playing Gothic Remake on FreeBSD
 date: 2026-07-30 10:00 +01:00
-modified: 2026-30-30 10:00 +01:00
+modified: 2026-07-30 10:00 +01:00
 tags: [gaming, freebsd, gothic, steam, proton]
 description:
 ---
